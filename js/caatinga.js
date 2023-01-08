@@ -33,12 +33,12 @@ const q0 = {
 
 const q1 = {
     numQuestao   : 1,
-    pergunta     : "Qual o maior bioma em espaço territórial do Brasil?", 
+    pergunta     : "Esse quizz é sobre?", 
     alternativaA : "Pampa",
     alternativaB : "Cerrado",
     alternativaC : "Caatinga",
     alternativaD : "Amazônia",
-    correta      : "Amazônia",
+    correta      : "Caatinga",
 }
 
 const q2 = {
