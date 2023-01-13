@@ -43,22 +43,22 @@ const q1 = {
 
 const q2 = {
     numQuestao   : 2,
-    pergunta     : "De quem é a famosa frase “Penso, logo existo”?", 
-    alternativaA : "Aristóteles",
-    alternativaB : "Platão",
-    alternativaC : "Sócrates",
-    alternativaD : "Descartes",
-    correta      : "Descartes",
+    pergunta     : "A Amazônia pode ser considerado o pulmão do mundo?”?", 
+    alternativaA : "Falso",
+    alternativaB : "Verdade",
+    alternativaC : "0",
+    alternativaD : "0",
+    correta      : "Falso",
 }
 
 const q3 = {
     numQuestao   : 3,
-    pergunta     : "Em qual ponto cardial o sol se põe? ", 
-    alternativaA : "Oriente",
-    alternativaB : "Oeste",
-    alternativaC : "Norte",
-    alternativaD : "Sul",
-    correta      : "Oeste",
+    pergunta     : "Quais as duas principais ameaças para a amazônia?", 
+    alternativaA : "Mineração e atividades agrícolas",
+    alternativaB : "Desflorestação e mineração",
+    alternativaC : "0",
+    alternativaD : "0",
+    correta      : "Desflorestação e mineração",
 }
 
 const q4 = {
